@@ -11,14 +11,17 @@ body {
 }
 
 header {
-    background-color: hwb(0 0% 100% / 0.581);
-    padding: 10px;
+    background-color: hwb(0 100% 0% / 0.581);
+    /*padding: 10px;*/
 }
 
 nav {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
+    background-color: rgba(0, 0, 0);
+    padding: 10px 20px;
+    border-radius: 0px;
 }
 
 .logo img {
@@ -29,24 +32,26 @@ nav {
 nav ul {
     list-style: none;
     display: flex;
-    gap: 20px;
+    gap: 40px;
+    padding: 0px;
 }
 
 nav a {
     text-decoration: none;
-    color: #4c3c32;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
     font-weight: bold;
     transition: color 0.3s;
 }
 
 nav a:hover {
-    color: #7e685b;
+    color: rgb(180, 149, 95);
 }
 
 
 .hero {
     height: 100vh;
-    background-image: url('"C:\Users\acer\Desktop\CS 3rd Year\App Dev\Github\cozycup-cafe-boilerplate\img\bg img.png"');
+    background-image: url('background.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -62,11 +67,13 @@ nav a:hover {
 .hero h1 {
     font-size: 3em;
     margin-bottom: 20px;
+    color:#fff;
 }
 
 .hero p {
     font-size: 1.5em;
     margin-bottom: 30px;
+    color: #fff;
 }
 
 .cta-button {
