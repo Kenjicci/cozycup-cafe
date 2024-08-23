@@ -88,6 +88,7 @@ nav a:hover {
     display: inline-block;
     padding: 12px 24px;
     border: none;
+    text-decoration: none;
     font-size: 16px;
     background-color: inherit;
     border-radius: 100px;
@@ -218,22 +219,63 @@ footer {
     color: #fff;
 }
 
-
 .about {
-    padding: 100px 0;
-    text-align: center;
-    background-color: #ede4d6;
+    height: 100vh;
+    background-image: url('../img/bgaboutus.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 0 20px;
 }
-
-.about h2 {
-    font-size: 30px;
-    margin-bottom: 20px;
-}
-
-.about p {
-    font-size: 18px;
-    max-width: 800px;
+.about-section {
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    padding: 50px; 
+    max-width: 1000px;
     margin: 0 auto;
+}
+
+.about-image {
+    flex: 1; 
+    margin-right: 20px; 
+}
+
+.about-image img {
+    width: 100%; 
+    max-width: 400px; 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+
+.about-content {
+    flex: 1; 
+}
+
+.about-content h2 {
+    font-size: 2.5em; 
+    font-family: 'Magnolia Script', cursive;
+    margin-bottom: 10px; 
+    color: #fff; 
+}
+
+.about-content h3 {
+    font-size: 1.5em; 
+    font-family: 'Magnolia Script', cursive;
+    margin-top: 20px; 
+    margin-bottom: 10px;
+    color: #ffffff; 
+}
+
+.about-content p {
+    line-height: 1.6; 
+    font-family: 'Open Sans', sans-serif;
+    color: #eee;
 }
 
 .contact {
