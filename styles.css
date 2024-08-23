@@ -26,10 +26,6 @@ nav {
     border-radius: 0px;
 }
 
-.logo img {
-    max-width: 45px;
-}
-
 
 nav ul {
     list-style: none;
@@ -64,6 +60,14 @@ nav a:hover {
     color: white;
     text-align: center;
     padding: 0 20px;
+}
+
+.bottom-right-logo {
+    position: absolute; 
+    bottom: 20px;
+    right: 20px;
+    width: 100px;
+    height: auto;
 }
 
 .hero h1 {
