@@ -181,6 +181,16 @@ h2 {
     border-radius: 1px;
 }
 
+.menu-item:hover {
+    background-color: #462e13a4;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 30px;
+}
+
+.menu-item:hover img {
+    transform: scale(1.2);
+}
+
 .menu-item img {
     width: 170px;
     height: 100px;
