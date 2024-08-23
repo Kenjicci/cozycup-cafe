@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/styles.css">
-    <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
     <title>CozyCup Café</title>
 </head>
@@ -127,8 +126,6 @@
         </div>
     </section>
 
-
-
     <section id="about" class="about">
         <div class="about-section">
             <div class="about-image">
@@ -144,8 +141,42 @@
     </section>
 
     <section id="contact" class="contact">
-        <h2>Contact Us</h2>
-        <p>Have questions or feedback? Reach out to us...</p>
+        <h1>Contact Us</h1>
+        <div class="contact-container">
+            <div class="contact-column">
+                <div class="contact-item">
+                    <h2>Get in Touch</h2>
+                    <p>
+                        Buhay ay di karera kaya miss u 
+                    </p>
+                    <p>
+                        <span>Tel: <a href="tel:0100200340" class="hover:text-yellow-600 transition">0938-5259-380</a></span>
+                        <br>
+                        <span>Email: <a href="mailto:info@company.com" class="hover:text-yellow-600 transition">CozyCupCafe@company.com</a></span>
+                    </p>
+                    <div class="contact-map">
+                        <a href="https://www.google.com/maps" class="inline-block text-white text-2xl pl-10 pr-12 py-6 rounded-lg transition tm-bg-green">
+                            <i class="fas fa-map-marked-alt mr-8"></i>
+                            Open Maps
+                        </a>
+                    </div>
+                </div>
+            </div>
+    
+            <div class="contact-column">
+                <div class="contact-item">
+                    <h2>Send a Message</h2>
+                    <form action="" method="POST" class="text-lg">
+                        <input type="text" name="name" class="input w-full bg-black border-b bg-opacity-0 text-white px-0 py-4 mb-4 tm-border-gold" placeholder="Name" required />
+                        <input type="email" name="email" class="input w-full bg-black border-b bg-opacity-0 text-white px-0 py-4 mb-4 tm-border-gold" placeholder="Email" required />
+                        <textarea rows="6" name="message" class="input w-full bg-black border-b bg-opacity-0 text-white px-0 py-4 mb-4 tm-border-gold" placeholder="Message..." required></textarea>
+                        <div class="text-right">
+                            <button type="submit" class="text-white hover:text-yellow-500 transition">Send it</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
     </section>
 
     <footer>
