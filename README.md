@@ -10,7 +10,7 @@ A simple website for Cozy Cup Cafe containing homepage, menu, about, and contact
 __Lorem ipsum dolor__
 
 ## About the Authors
-<img src="[https://github.com/yourusername/yourrepository/raw/main/path/to/yourimage.jpg](https://github.com/account)" 
+<img src="[https://github.com/yourusername/yourrepository/raw/main/path/to/yourimage.jpg](https://github.com/account)](https://avatars.githubusercontent.com/u/143150787?s=400&u=92dee789c42731b7d57dfbdb96fe72a3809c1a2d&v=4)" 
      width="150" 
      style="border-radius: 50%;" 
      alt="Kenjicci Photo">
@@ -20,8 +20,7 @@ __Lorem ipsum dolor__
      style="border-radius: 50%;" 
      alt="ampalayaa Photo">
 
+__Name: Ken Cinco__
+__Email: CincoKenCstd1@gmail.com__
 
 
-Owner: Kenjicci / Cinco, Ken C.
-
-Collaborator: ampalayaa / Magadayao, Frances Bea V.
