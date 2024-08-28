@@ -15,6 +15,11 @@ __Lorem ipsum dolor__
      style="border-radius: 50%;" 
      alt="Kenjicci Photo">
 
+<img src="https://github.com/ampalayaa" 
+     width="150" 
+     style="border-radius: 50%;" 
+     alt="ampalayaa Photo">
+
 
 
 Owner: Kenjicci / Cinco, Ken C.
