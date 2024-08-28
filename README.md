@@ -21,6 +21,7 @@ __Lorem ipsum dolor__
      alt="ampalayaa Photo">
 
 __Name: Ken Cinco__
+
 __Email: CincoKenCstd1@gmail.com__
 
 
