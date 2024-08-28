@@ -20,7 +20,7 @@ __Name: Ken Cinco__
 __Email: CincoKenCstd1@gmail.com__
 
 
-<img src="https://github.com/ampalayaa" 
+<img src="https://github.com/Kenjicci/cozycup-cafe/blob/main/img/ampalayaa.jpg" 
      width="150" 
      style="border-radius: 50%;" 
      alt="ampalayaa Photo">
@@ -28,6 +28,7 @@ __Email: CincoKenCstd1@gmail.com__
 __Name: Frances Bea V. Magdayao__
 
 __Email: magdayaofrances@gmail.com__
+
 
 
 
