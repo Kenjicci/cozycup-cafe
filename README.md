@@ -1,6 +1,6 @@
-COZYCUP CAFE
+# Project Description
+A simple website for Cozy Cup Cafe containing homepage, menu, about, and contact using basic HTML and CSS.
 
-A simple website for cozycafe containing homepage, menu, about, and contact.
 
 Owner: Kenjicci / Cinco, Ken C.
 
