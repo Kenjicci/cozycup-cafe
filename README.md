@@ -10,6 +10,7 @@ A simple website for Cozy Cup Cafe containing homepage, menu, about, and contact
 __Lorem ipsum dolor__
 
 ## About the Authors
+<p>Author 1</p>
 <img src="https://github.com/Kenjicci/cozycup-cafe/blob/main/img/Kenjicci.jpg" 
      width="150" 
      style="border-radius: 50%;" 
@@ -25,7 +26,8 @@ __Email: CincoKenCstd1@gmail.com__
 <a href="https://github.com/Kenjicci">
   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" width="25" height="25"/>
 </a>
-<br>
+
+<p>Author 2</p>
 <img src="https://github.com/Kenjicci/cozycup-cafe/blob/main/img/ampalayaa.jpg" 
      width="150" 
      style="border-radius: 50%;" 
