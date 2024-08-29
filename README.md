@@ -19,6 +19,8 @@ __Name: Ken Cinco__
 
 __Email: CincoKenCstd1@gmail.com__
 
+[![Facebook](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png)](https://www.facebook.com/ken.cinco.7330/)
+
 
 <img src="https://github.com/Kenjicci/cozycup-cafe/blob/main/img/ampalayaa.jpg" 
      width="150" 
