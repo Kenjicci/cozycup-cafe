@@ -27,6 +27,8 @@ __Email: CincoKenCstd1@gmail.com__
 </a>
 
 
+
+
 <img src="https://github.com/Kenjicci/cozycup-cafe/blob/main/img/ampalayaa.jpg" 
      width="150" 
      style="border-radius: 50%;" 
