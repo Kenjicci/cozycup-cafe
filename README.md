@@ -18,8 +18,12 @@ __Lorem ipsum dolor__
 __Name: Ken Cinco__
 
 __Email: CincoKenCstd1@gmail.com__
+
 <a href="https://www.facebook.com/ken.cinco.7330/">
-  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" alt="Facebook" width="50" height="50"/>
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" alt="Facebook" width="25" height="25"/>
+</a>
+<a href="https://github.com/Kenjicci">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" width="25" height="25"/>
 </a>
 
 
