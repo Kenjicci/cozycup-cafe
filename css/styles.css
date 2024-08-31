@@ -161,14 +161,14 @@ nav a:hover {
     border-radius: 10px;
     padding: 20px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    margin-right: 10%;
+    margin-right: 9%;
 }
 
 h2 {
     font-size: 45px;
     font-family: 'Magnolia Script', cursive;
     color: #ffffff;
-    margin-bottom: 20px;
+    margin-bottom: 19px;
 }
 
 .menu-item {
@@ -190,8 +190,8 @@ h2 {
 }
 
 .menu-item img {
-    width: 170px;
-    height: 100px;
+    width: 160px;
+    height: 98px;
     margin-right: 25px;
 }
 
