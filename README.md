@@ -12,6 +12,11 @@ __Home Page__
      style="border-radius: 50%;" 
      alt="HomepageScreenshot">
 
+__Menu Page__
+<img src="https://github.com/Kenjicci/cozycup-cafe/blob/main/img/MenuPageScreenshot.png"
+     style="border-radius: 50%;" 
+     alt="MenuPageScreenshot">
+
 ## About the Authors 👥
 <p>Author 1 👨‍💻</p>
 <img src="https://github.com/Kenjicci/cozycup-cafe/blob/main/img/Kenjicci.jpg" 
