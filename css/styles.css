@@ -160,8 +160,9 @@ h5 {
     color: black;
     text-shadow: 0 0 5px #999;
 }
-p {
+.card p {
     color: white;
+    font-size: 10px;
     text-shadow: 0 0 5px #999;
 }
 
