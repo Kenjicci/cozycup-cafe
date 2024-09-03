@@ -394,11 +394,10 @@ p {
       padding: 0 30px;
   }
   
-  .contact-column {   
-      padding: 0 20px;
-      margin: 0 auto;
-      flex: 0 0 50%; 
-      margin-left: 10px;
+  .left-contact-column, .right-contact-column {   
+      padding: 0 10px; 
+      margin-bottom: 18px;
+      width: 48%;
   }
   
   .contact-item {
@@ -455,7 +454,7 @@ p {
       border-bottom: 1px solid var(--medium-coffee);
       background-color: transparent;
       color: var(--background-cream);
-      font-size: 16px;
+      font-size: 14px;
   }
   
   .contact-item form textarea {
