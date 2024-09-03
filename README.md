@@ -23,7 +23,7 @@ __About Page__
      alt="MenuPageScreenshot">
 
 __Contact Page__
-<img src="https://github.com/Kenjicci/cozycup-cafe/blob/main/img/contactss.png"
+<img src="https://github.com/Kenjicci/cozycup-cafe/blob/main/img/ContactPageSS.png"
      style="border-radius: 50%;" 
      alt="MenuPageScreenshot">
 
