@@ -173,7 +173,7 @@ p {
 
 .menu h1 {
     font-family: 'Magnolia Script';
-    font-size: 6em;
+    font-size: 4em;
     margin-bottom: 40px;
     color: #ffffff;
 }
@@ -368,7 +368,7 @@ p {
     --medium-coffee: #634832;
     --light-coffee: #967259;
     --cream: #e6d2b5;
-    --background-coffee: #f5e5d3;
+    --background-cream: #ffffff;
   }
   
   .contact {
@@ -381,9 +381,9 @@ p {
   .contact h1 {
       text-align: center;
       font-size: 2.5em;
-      font-family: 'Magnolia Script', cursive;
-      margin-bottom: 30px;
-      color: white;
+      font-family: 'Magnolia Script';
+      margin-bottom: 20px;
+      color: var(--background-cream);
   }
   
   .contact-container {
@@ -391,16 +391,18 @@ p {
       justify-content: space-between;
       max-width: 1200px;
       margin: 0 auto;
-      padding: 0 20px;
+      padding: 0 30px;
   }
   
-  .contact-column {
-      flex: 30%;    
+  .contact-column {   
       padding: 0 20px;
+      margin: 0 auto;
+      flex: 0 0 50%; 
+      margin-left: 10px;
   }
   
   .contact-item {
-      background-color: #e0d1d1d4;
+      background-color: #38220f8f;
       padding: 30px;
       border-radius: 8px;
       box-shadow: 0 4px 6px #5d3c32;
@@ -408,7 +410,7 @@ p {
   
   .contact-item h2 {
       font-size: 1.8em;
-      font-family:'Arial Narrow Bold', sans-serif;
+      font-family:'Arial', sans-serif;
       margin-bottom: 20px;
       color: var(--medium-coffee);
   }
@@ -416,11 +418,12 @@ p {
   .contact-item p {
       margin-bottom: 15px;
       line-height: 1.6;
-      color: var(--dark-coffee);
+      margin-bottom: 10px;
+      color: var(--background-cream);
   }
   
   .contact-item a {
-      color: var(--medium-coffee);
+      color: var(--background-cream);
       text-decoration: none;
       transition: color 0.3s ease;
   }
@@ -440,18 +443,18 @@ p {
   }
   
   .contact-map a:hover {
-      background-color: var(--dark-coffee);
+      background-color: var(--meduim-coffee);
   }
   
   .contact-item form input,
   .contact-item form textarea {
       width: 100%;
       padding: 10px 0;
-      margin-bottom: 20px;
+      margin-bottom: 17px;
       border: none;
       border-bottom: 1px solid var(--medium-coffee);
       background-color: transparent;
-      color: var(--dark-coffee);
+      color: var(--background-cream);
       font-size: 16px;
   }
   
@@ -463,6 +466,7 @@ p {
   .contact-item form button {
       background-color: var(--medium-coffee);
       color: var(--cream);
+      font-size: 18px;
       padding: 10px 20px;
       border: none;
       border-radius: 5px;
