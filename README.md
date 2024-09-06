@@ -7,7 +7,26 @@ A simple website for Cozy Cup Cafe containing homepage, menu, about, and contact
 - __Easy to Contact__ : Reachable Email
 
 ## Screen Captures 📸
-__Lorem ipsum dolor__
+__Home Page__
+<img src="https://github.com/Kenjicci/cozycup-cafe/blob/main/img/homepagess.png"
+     style="border-radius: 50%;" 
+     alt="HomepageScreenshot">
+
+__Menu Page__
+<img src="https://github.com/Kenjicci/cozycup-cafe/blob/main/img/MenuPageScreenshot.png"
+     style="border-radius: 50%;" 
+     alt="MenuPageScreenshot">
+
+__About Page__
+<img src="https://github.com/Kenjicci/cozycup-cafe/blob/main/img/aboutusss.png"
+     style="border-radius: 50%;" 
+     alt="MenuPageScreenshot">
+
+__Contact Page__
+<img src="https://github.com/Kenjicci/cozycup-cafe/blob/main/img/contactpagess.png"
+     style="border-radius: 50%;" 
+     alt="MenuPageScreenshot">
+
 
 ## About the Authors 👥
 <p>Author 1 👨‍💻</p>
