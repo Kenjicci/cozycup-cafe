@@ -8,7 +8,7 @@ A simple website for Cozy Cup Cafe containing homepage, menu, about, and contact
 
 ## Screen Captures 📸
 __Home Page__
-<img src="https://github.com/Kenjicci/cozycup-cafe/blob/main/img/homepagess.png"
+<img src="https://github.com/Kenjicci/cozycup-cafe/blob/main/img/homepagess.jpeg"
      style="border-radius: 50%;" 
      alt="HomepageScreenshot">
 
