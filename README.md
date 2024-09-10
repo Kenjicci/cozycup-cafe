@@ -2,28 +2,28 @@
 A simple website for Cozy Cup Cafe containing homepage, menu, about, and contact using basic HTML and CSS.
 
 ## Features 🌟
-- __User-friendly interface__ : Simple and Classic
+- __User-friendly interface__ : Simple, Classic, and Easy to Navigate
 - __Easy Menu Navigation__ : Two Separate Menu for Drinks and Pastries
-- __Easy to Contact__ : Reachable Email
+- __Easy to Contact__ : Reachable Contacts and Social Media Accounts
 
 ## Screen Captures 📸
 __Home Page__
-<img src="https://github.com/Kenjicci/cozycup-cafe/blob/main/img/homepagess.png"
+<img src="https://github.com/Kenjicci/cozycup-cafe/blob/main/img/homepagesss.jpeg"
      style="border-radius: 50%;" 
      alt="HomepageScreenshot">
 
 __Menu Page__
-<img src="https://github.com/Kenjicci/cozycup-cafe/blob/main/img/MenuPageScreenshot.png"
+<img src="https://github.com/Kenjicci/cozycup-cafe/blob/main/img/menusss.jpeg"
      style="border-radius: 50%;" 
      alt="MenuPageScreenshot">
 
 __About Page__
-<img src="https://github.com/Kenjicci/cozycup-cafe/blob/main/img/aboutusss.png"
+<img src="https://github.com/Kenjicci/cozycup-cafe/blob/main/img/aboutsss.jpeg"
      style="border-radius: 50%;" 
      alt="MenuPageScreenshot">
 
 __Contact Page__
-<img src="https://github.com/Kenjicci/cozycup-cafe/blob/main/img/contactpagess.png"
+<img src="https://github.com/Kenjicci/cozycup-cafe/blob/main/img/contactsss.jpeg"
      style="border-radius: 50%;" 
      alt="MenuPageScreenshot">
 

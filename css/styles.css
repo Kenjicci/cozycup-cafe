@@ -202,6 +202,7 @@ h5 {
 }
 
 .footer-section h4 {
+    text-align: center;
     margin-bottom: 5px;
     font-size: 16;
 }
@@ -212,6 +213,7 @@ h5 {
 }
 
 .social-icons {
+    text-align: center;
     display: inline-block;
     justify-content: center;
     margin-top: 10px;
@@ -366,6 +368,7 @@ social-icons p {
     background: url(../img/menu-bg.jpg) no-repeat center center/cover;
     padding: 25px 50px;
     text-align: center;
+    width: auto;
 }
 
 .menu h1 {
@@ -389,7 +392,8 @@ social-icons p {
     border-radius: 10px;
     padding: 20px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    margin-right: 10%;
+    margin-right: 5%;
+    margin-left: 5%;
 }
 
 h2 {
@@ -432,7 +436,7 @@ h2 {
 .menu-text h2 {
     margin: 0;
     font: bold 11px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Magnolia Script', Arial, Helvetica, sans-serif;
     font-size: 1.5em;
     color: #865444c6;
 }
@@ -440,7 +444,7 @@ h2 {
 .menu-text p {
     font: 100;
     color: #eee;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Magnolia Script', Arial, Helvetica, sans-serif;
     margin: 1;
     line-height: 1.5;
 }
@@ -452,24 +456,29 @@ h2 {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-color: #462e13a4;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    border-radius:40px;
-    padding: auto;
+    border-top: 5px solid #6f4e37;
+    width: 100%;
 }
 
 
 .foot12 p{
     font-size: 12px;
+    margin-bottom: 8px;
+    line-height: 12px;
 }
 
 .foot2-content {
-    display: flex;
+    display: inline-flex;
+    text-align: left;
     justify-content: space-between;
     flex-wrap: wrap;
-    max-width: 1200px;
+    gap: 21px;
     margin: 0 auto;
     padding: 10px; 
+}
+
+.footer-section.social-media{
+    text-align: center;
 }
 .navfoot{
     display: flex;
@@ -484,13 +493,14 @@ h2 {
     list-style: none;
     display: block;
     margin-left: 60px;
+    text-align: right;
 }
 
 .navfoot nav ul li a{
     text-decoration: none;
     color: #fff;
     font-size: 13;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 
@@ -636,24 +646,29 @@ p {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-color: #462e13a4;
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    border-radius:40px;
-    padding: auto;
+    border-top: 5px solid #6f4e37;
+    width: 100%;
 }
 
 
 .foot123 p{
     font-size: 12px;
+    margin-bottom: 8px;
+    line-height: 12px;
 }
 
 .foot3-content {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    text-align: left;
     max-width: 1200px;
     margin: 0 auto;
     padding: 10px; 
+}
+
+.footer-section.social-media {
+    text-align: center;
 }
 
 .navfoot{
