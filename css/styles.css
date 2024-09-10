@@ -180,7 +180,7 @@ h5 {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    border-top: 10px solid black; 
+    border: 10px solid black; 
 }
 
 .main.footer p{
@@ -210,8 +210,6 @@ h5 {
     font-size: 10px;
     margin: 5px 0;
 }
-
-.footer-section
 
 .social-icons {
     display: inline-block;
@@ -363,9 +361,10 @@ social-icons p {
     animation: glitch 0.3s infinite;
   }
   
+
 .menu {
     background: url(../img/menu-bg.jpg) no-repeat center center/cover;
-    padding: 100px 50px;
+    padding: 25px 50px;
     text-align: center;
 }
 
@@ -446,18 +445,55 @@ h2 {
     line-height: 1.5;
 }
 
+.foot12{
+    padding: 10px 0;
+    text-align: center;
+    color: #fff;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 2.5px solid var(--cream);
+}
+.foot12 p{
+    font-size: 12px;
+}
+
+.foot2-content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px; 
+}
+.navfoot{
+    display: flex;
+    align-items: center;
+}
+
+.navfoot nav{
+    flex: 1;
+    text-align: center;
+}
+.navfoot nav ul li{
+    list-style: none;
+    display: block;
+    margin-left: 60px;
+}
+
+.navfoot nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 13;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
 .about, .contact {
     padding: 50px 20px;
     text-align: center;
 }
 
-footer {
-    padding: 20px;
-    background-color: #3e2723;
-    text-align: center;
-    color: #fff;
-    ;
-}
 
 .about {
     min-height: 100vh;
@@ -472,7 +508,6 @@ footer {
     padding: 40px 20px;
 }
 
-/* About Section Layout */
 .about-section {
     display: flex;
     justify-content: space-between;
